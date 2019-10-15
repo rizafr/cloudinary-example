@@ -1,5 +1,6 @@
 Final Code for Cloudinary MERN Example that was featured on my medium article tutorial.
 https://medium.com/better-programming/how-to-upload-images-with-cloudinary-and-mern-part-2-83f8ee31b903
+
 Client Side: 
 
 To start the front-end of this application. Make sure that you are in the root directory of the application and run the command "npm start".
